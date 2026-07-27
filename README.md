@@ -40,9 +40,12 @@ Student_Marks_Pred/
    ```
 
 ##  Output
-## 📸 Output
+## Main Interface
+![Main Interface](main-interface.png)
 
-![Student Marks Prediction](images/screenshot.png)
+## Prediction Result
+![Prediction Result](prediction-result.png)
+
 
 ## 👩‍💻 Author
 **Palak Mishra**
